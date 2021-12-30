@@ -27,7 +27,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "knowfully-scope"
+     "defaultScope": "knowfully.hackathon-library"
   },
   /**
    * main configuration for component dependency resolution.

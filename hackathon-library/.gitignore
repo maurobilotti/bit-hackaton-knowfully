@@ -23,4 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /.bit/cache
+/.bit/objects
+/.bit/refs
 /public/bit

@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "components/button-test"
+      },
+      "isSymlink": true,
+      "hash": "a2b2b479fff75bf23729920385af78f575b2de79"
+    },
+    {
+      "id": {
+        "scope": "knowfully.hackathon-library",
+        "name": "components/button-test"
+      },
+      "isSymlink": false,
+      "hash": "163c988ea905d6d5123392362ca5212f8da39cb2"
+    }
+  ],
+  "lanes": []
+}

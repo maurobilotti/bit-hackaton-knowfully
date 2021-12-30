@@ -9,15 +9,9 @@
  */
 
 {
-    "components/button": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.js",
-        "rootDir": "knowfully-scope/components/button"
-    },
     "components/button-test": {
-        "scope": "",
-        "version": "",
+        "scope": "knowfully.hackathon-library",
+        "version": "0.0.1",
         "mainFile": "index.js",
         "rootDir": "knowfully-scope/components/button-test"
     },
