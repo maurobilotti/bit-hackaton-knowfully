@@ -1,0 +1,9 @@
+{
+    "name": "hackathon-library",
+    "remotes": {},
+    "version": "1.0.196",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
