@@ -9,5 +9,17 @@
  */
 
 {
+    "components/button": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "knowfully-scope/components/button"
+    },
+    "components/button-test": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.js",
+        "rootDir": "knowfully-scope/components/button-test"
+    },
     "$schema-version": "14.9.0"
 }
